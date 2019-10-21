@@ -1,7 +1,7 @@
 # The Blind Guide
 Team Name: ​_destroyingRecursively_
 
-Members: [​Saksham Arora](https://github.com/saksham20189575/), [Sayan Sengupta](https://github.com/S-CRACKER) and  [Ankur Dubey](https://github.com/ankurdubey)
+Members: [​Saksham Arora](https://github.com/saksham20189575/), [Sayan Sengupta](https://github.com/S-CRACKER) and  [Ankur Dubey](https://github.com/ankurdubey521)
 
 We built this project during **Hack-A-Bit 19**, and were awarded the **3rd Prize (2nd Runner Ups)**
 
